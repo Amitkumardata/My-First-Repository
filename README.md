@@ -45,13 +45,15 @@ Built a data-driven model to identify key factors contributing to employee attri
 
 📚 Currently Learning
 
-Advanced Machine Learning Techniques
+Machine Learning Techniques
 
 Cloud Platforms (AWS, Azure)
 
 Data Engineering Fundamentals
 
-🤝 Connect With Me
+Long Term Goal: AI Engneering ( I am curently focus on LLMs , Neural Netwrk , ML , Do own project from historical data and build the ML model from scrath)
+
+🤝 Feel Free to Connect With Me I always encourge to collaborate to work like a team effort 
 
 💼 LinkedIn:
 https://www.linkedin.com/in/amit-kumar-4155a41b3
